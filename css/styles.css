@@ -1,0 +1,174 @@
+#title {
+  background-color: #E0144C;
+}
+
+h1 {
+  font-family: "Fredoka One";
+  color: white;
+  font-size: 60px;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  position: relative;
+  z-index: 0;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu, sans-serif;
+  font-size: 30px;
+}
+
+.nav-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.Download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.iphone-image {
+  width: 70%;
+  transform: rotate(20deg);
+  padding-left: 70px;
+}
+
+#features {
+  background-color: white;
+  font font-family: "Fredoka One";
+  padding: 5% 15% 5% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+.fa-solid {
+  color: #F96666;
+  padding-bottom: 20px;
+}
+
+.row {
+  padding-top: 80px;
+  padding-bottom: 130px;
+}
+
+@media (max-width :1028px) {
+
+  #title{
+    text-align: center;
+  }
+
+  .iphone-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.col-lg-4 {
+  font-size: 20px;
+  text-align: center;
+  padding: 3%;
+}
+
+.Center {
+  font-family: "Fredoka One";
+}
+
+.icon:hover {
+  color: #CF0A0A;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #E0144C;
+  color: white;
+}
+
+h2 {
+  font-family: "Merriweather";
+}
+
+.lady-img {
+  width: 20%;
+  border-radius: 100%;
+}
+
+.t {
+  text-align: center;
+  padding: 7% 10%;
+  font-size: 40px;
+}
+
+#press {
+  background-color: #E0144C;
+  text-align: center;
+}
+
+.logo {
+  width: 15%;
+  margin: 20px 20px 20px 50px;
+  padding-bottom: 30px;
+}
+
+.carousel-control-prev {
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 5% 15% 5% 15%;
+}
+
+.abra {
+  text-align: center;
+}
+
+.card-title {
+  color: black;
+}
+
+.my-0 {
+  font-size: 40px;
+}
+
+.pricing-column {
+  text-align: center;
+  padding: 5% 12% 5% 12%;
+}
+
+#cta{
+  text-align:center;
+  background-color: #E0144C;
+
+}
+.txt{
+
+  font-family: Fredoka One;
+  padding: 5% 20% 5% 20%;
+  font-size: 50px;
+  color: white;
+}
+.b{
+  margin-bottom: 150px;
+  font-size: 20px;
+}
+#footer{
+  text-align: center;
+}
+.tags{
+  font-size: 30px;
+  margin-top: 50px;
+  padding: 3% 2% 3% 2%;
+}
